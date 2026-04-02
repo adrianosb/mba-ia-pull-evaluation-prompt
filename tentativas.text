@@ -1,0 +1,149 @@
+Tentativa 1 foi com Few-shot Learning, fornecenddo 2 exemplos claros de entrada/saída
+Resultado:
+Métricas LangSmith:
+  - Helpfulness: 0.74 ✗
+  - Correctness: 0.78 ✗
+
+Métricas Customizadas:
+  - F1-Score: 0.79 ✗
+  - Clarity: 0.71 ✗
+  - Precision: 0.76 ✗
+
+--------------------------------------------------
+📊 MÉDIA GERAL: 0.7552
+--------------------------------------------------
+
+Tentativa 2 foi com Few-shot Learning, com 3 exemplos melhorados
+Resultado:
+Métricas LangSmith:
+  - Helpfulness: 0.85 ✗
+  - Correctness: 0.77 ✗
+
+Métricas Customizadas:
+  - F1-Score: 0.79 ✗
+  - Clarity: 0.94 ✓
+  - Precision: 0.76 ✗
+
+--------------------------------------------------
+📊 MÉDIA GERAL: 0.8230
+--------------------------------------------------
+
+Tentativa 9: 
+Avaliando: bug_to_user_story_v2
+   Puxando prompt do LangSmith Hub: bug_to_user_story_v2
+   ✓ Prompt carregado com sucesso
+   Dataset: 15 exemplos
+   Avaliando exemplos...
+      [1/10] F1:0.85 Clarity:0.85 Precision:0.90
+      [2/10] F1:0.65 Clarity:0.85 Precision:0.60
+      [3/10] F1:1.00 Clarity:0.90 Precision:1.00
+      [4/10] F1:1.00 Clarity:1.00 Precision:1.00
+      [5/10] F1:1.00 Clarity:0.90 Precision:1.00
+      [6/10] F1:1.00 Clarity:0.90 Precision:1.00
+      [7/10] F1:1.00 Clarity:1.00 Precision:1.00
+      [8/10] F1:1.00 Clarity:1.00 Precision:1.00
+      [9/10] F1:0.69 Clarity:0.70 Precision:0.67
+      [10/10] F1:1.00 Clarity:1.00 Precision:1.00
+
+==================================================
+Prompt: bug_to_user_story_v2
+==================================================
+
+Métricas LangSmith:
+  - Helpfulness: 0.91 ✓
+  - Correctness: 0.92 ✓
+
+Métricas Customizadas:
+  - F1-Score: 0.92 ✓
+  - Clarity: 0.91 ✓
+  - Precision: 0.92 ✓
+
+--------------------------------------------------
+📊 MÉDIA GERAL: 0.9152
+--------------------------------------------------
+
+✅ STATUS: APROVADO (média >= 0.9)
+
+==================================================
+RESUMO FINAL
+==================================================
+
+Prompts avaliados: 1
+Aprovados: 1
+Reprovados: 0
+
+✅ Todos os prompts atingiram média >= 0.9!Tentativa 1 foi com Few-shot Learning, fornecenddo 2 exemplos claros de entrada/saída
+Resultado:
+Métricas LangSmith:
+  - Helpfulness: 0.74 ✗
+  - Correctness: 0.78 ✗
+
+Métricas Customizadas:
+  - F1-Score: 0.79 ✗
+  - Clarity: 0.71 ✗
+  - Precision: 0.76 ✗
+
+--------------------------------------------------
+📊 MÉDIA GERAL: 0.7552
+--------------------------------------------------
+
+Tentativa 2 foi com Few-shot Learning, com 3 exemplos melhorados
+Resultado:
+Métricas LangSmith:
+  - Helpfulness: 0.85 ✗
+  - Correctness: 0.77 ✗
+
+Métricas Customizadas:
+  - F1-Score: 0.79 ✗
+  - Clarity: 0.94 ✓
+  - Precision: 0.76 ✗
+
+--------------------------------------------------
+📊 MÉDIA GERAL: 0.8230
+--------------------------------------------------
+
+Tentativa 9: 
+Avaliando: bug_to_user_story_v2
+   Puxando prompt do LangSmith Hub: bug_to_user_story_v2
+   ✓ Prompt carregado com sucesso
+   Dataset: 15 exemplos
+   Avaliando exemplos...
+      [1/10] F1:0.85 Clarity:0.85 Precision:0.90
+      [2/10] F1:0.65 Clarity:0.85 Precision:0.60
+      [3/10] F1:1.00 Clarity:0.90 Precision:1.00
+      [4/10] F1:1.00 Clarity:1.00 Precision:1.00
+      [5/10] F1:1.00 Clarity:0.90 Precision:1.00
+      [6/10] F1:1.00 Clarity:0.90 Precision:1.00
+      [7/10] F1:1.00 Clarity:1.00 Precision:1.00
+      [8/10] F1:1.00 Clarity:1.00 Precision:1.00
+      [9/10] F1:0.69 Clarity:0.70 Precision:0.67
+      [10/10] F1:1.00 Clarity:1.00 Precision:1.00
+
+==================================================
+Prompt: bug_to_user_story_v2
+==================================================
+
+Métricas LangSmith:
+  - Helpfulness: 0.91 ✓
+  - Correctness: 0.92 ✓
+
+Métricas Customizadas:
+  - F1-Score: 0.92 ✓
+  - Clarity: 0.91 ✓
+  - Precision: 0.92 ✓
+
+--------------------------------------------------
+📊 MÉDIA GERAL: 0.9152
+--------------------------------------------------
+
+✅ STATUS: APROVADO (média >= 0.9)
+
+==================================================
+RESUMO FINAL
+==================================================
+
+Prompts avaliados: 1
+Aprovados: 1
+Reprovados: 0
+
+✅ Todos os prompts atingiram média >= 0.9!
