@@ -76,7 +76,7 @@ Foram necessárias várias iterações para atingir o resultado esperado. O proc
 
 ```bash
 # Clone o repositório e acesse a pasta
-git clone <url-do-repositorio>
+git clone https://github.com/adrianosb/mba-ia-pull-evaluation-prompt
 cd mba-ia-pull-evaluation-prompt
 
 # Crie e ative o ambiente virtual
